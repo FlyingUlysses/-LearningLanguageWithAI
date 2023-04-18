@@ -1,1 +1,3 @@
-# -LearningLanguageWithAI
+# LearningLanguageWithAI
+
+This is a project in development...
